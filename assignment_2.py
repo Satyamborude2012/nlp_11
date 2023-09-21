@@ -1,6 +1,6 @@
 '''
 Assignment no 2:
-Name:Borude Satyam Uttams
+Name:Borude Satyam Uttam
 Batch:B1
 Roll no: 11
 Title: "Assignment on bag of words (BOW) using Gensim library "
